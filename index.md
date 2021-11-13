@@ -27,4 +27,4 @@ Special Notice: In the absence of an explicit statement in this Agreement, Teleg
 
 1.6 Finally, if at any time you have questions about our Privacy Policy, deli201904@gmail.com ​Contact us and we will make every effort to improve this issue immediately within reasonable and appropriate limits.
 
-Telegram Privacy Policy: [https://telegram.org/privacy](https://telegram.org/privacy)
+#### Telegram Privacy Policy: [https://telegram.org/privacy](https://telegram.org/privacy)
